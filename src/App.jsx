@@ -11,9 +11,9 @@ function App() {
   return (
     <>
       <Navbar />
-      {/*<Home />
-      <LoginPage/>*/}
-      <RegisterPage/>
+      <Home />
+      {/*<LoginPage/>*/}
+      {/*<RegisterPage/>*/}
       {/*<Home />
       <Home/>*/}     
       <Footer />
